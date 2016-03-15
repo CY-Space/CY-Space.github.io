@@ -1,3 +1,3 @@
-# GEEK-IOT.github.io
+# geek-iot.github.io
 
 ###Homesite Sourcecode
